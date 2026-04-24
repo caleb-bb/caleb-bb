@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=caleb-bb)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-bb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 <!--
 **caleb-bb/caleb-bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
